@@ -1,7 +1,7 @@
-Reporting Security Issues
+Reporting Vulnerabilities
 -------------------------
 
-To report any security issue please contact Arm by email at arm-security@arm.com.
+To report any security vulnerabilities in SCP please contact Arm by email at arm-security@arm.com.
 
 
 Security Incident Handling Process
