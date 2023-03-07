@@ -33,7 +33,7 @@ RUN apt-get update && \
         clang-tidy-10 libclang-9-dev \
         clang-10 llvm-10 libclang-10-dev \
         llvm-10-dev && \
-    python3 -m pip install pip==23.0.1 --hash=sha256:cd015ea1bfb0fcef59d8a286c1f8bebcb983f6317719d415dc5351efb7cd7024
+    python3 -m pip install pip==23.0.1 --hash=sha256:236bcb61156d76c4b8a05821b988c7b8c35bf0da28a4b614e8d6ab5212c25c6f
 
 ENV DEBIAN_FRONTEND=
 
