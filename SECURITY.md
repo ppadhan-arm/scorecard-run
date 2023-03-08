@@ -1,10 +1,8 @@
-Reporting Vulnerabilities
--------------------------
+## Reporting Vulnerabilities
 
-To report any security vulnerabilities in SCP please contact Arm by email at arm-security@arm.com.
+If you think you have found an SCP-firmware security vulnerability, then please
+send an email to the security team at
+<arm-security@arm.com>.
 
-
-Security Incident Handling Process
-----------------------------------
-
-More details on Arm security incident handling process can be found at [Arm Developer website](https://developer.arm.com/support/arm-security-updates/report-security-vulnerabilities).
+Further details of reporting vulnerabilities can be found on the
+[Arm Developer Website](https://developer.arm.com/documentation/102850/latest/).
